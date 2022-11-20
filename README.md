@@ -1,3 +1,5 @@
-# Plant-disease-detection
+localhost:[port]/docs
 
-CNN model to detect potato disease in plants by uploading image of the leaf
+- add random class
+
+Reference: https://youtube.com/playlist?list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S
