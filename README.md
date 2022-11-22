@@ -1,12 +1,12 @@
-##faqs
+## faqs
 
-###software
-cnn architecture: need to check
-algorithm used : fast R cnn
-optimizer : adam
-activation function : relu (need to read up on convolution in dsp and equations)
-classifiers: need to check
-filters : 6 filters?
+### software
+cnn architecture: need to check<br>
+algorithm used : fast R cnn<br>
+optimizer : adam<br>
+activation function : relu (need to read up on convolution in dsp and equations)<br>
+classifiers: need to check<br>
+filters : 6 filters?<br>
 
 localhost:[port]/docs
 
