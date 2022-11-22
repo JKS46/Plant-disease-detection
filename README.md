@@ -1,3 +1,13 @@
+##faqs
+
+###software
+cnn architecture: need to check
+algorithm used : fast R cnn
+optimizer : adam
+activation function : relu (need to read up on convolution in dsp and equations)
+classifiers: need to check
+filters : 6 filters?
+
 localhost:[port]/docs
 
 - add random class
